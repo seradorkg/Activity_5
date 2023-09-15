@@ -1,0 +1,7 @@
+.btn {
+    color: green !important;
+    background-color: gray;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
